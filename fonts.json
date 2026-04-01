@@ -1,62 +1,12 @@
 {
-  "repo_name": "larafonts",
-  "repo_author": "roooot",
-  "repo_icon": "https://github.com/rooootdev.png",
+  "repo_name": "PartyFonts",
+  "repo_author": "jailbreak.party",
+  "repo_icon": "https://avatars.githubusercontent.com/u/181679183?s=200&v=4",
   "fonts": [
     {
-      "name": "SFUI",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/SFUI.ttf",
+      "name": "QuickSand (100%)",
+      "url": "https://github.com/jailbreakdotparty/PartyFonts/raw/refs/heads/main/fonts/QuickSand-100.ttf",
       "format": "truetype"
     },
-    {
-      "name": "Chococooky",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Chococooky.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Comic Sans MS",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Comic%20Sans%20MS.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "DejaVu Sans Condensed",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSansCondensed.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "DejaVu Sans Mono",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSansMono.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "DejaVu Serif",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSerif.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Fira Sans Regular",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/FiraSans-Regular.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Go Mono",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Go-Mono.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Go Regular",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Go-Regular.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "QuickSand",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/QuickSand.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Segoe UI",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/segoeui.ttf",
-      "format": "truetype"
-    }
   ]
 }
