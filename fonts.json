@@ -8,5 +8,15 @@
       "url": "https://github.com/jailbreakdotparty/PartyFonts/raw/refs/heads/main/fonts/QuickSand-100.ttf",
       "format": "truetype"
     },
+    {
+      "name": "Meloso (85%)",
+      "url": "https://github.com/jailbreakdotparty/PartyFonts/raw/refs/heads/main/fonts/Meloso-85.ttf",
+      "format": "truetype"
+    },
+    {
+      "name": "Meloso (100%)",
+      "url": "https://github.com/jailbreakdotparty/PartyFonts/raw/refs/heads/main/fonts/Meloso-100.ttf",
+      "format": "truetype"
+    },
   ]
 }
