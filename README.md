@@ -5,7 +5,7 @@ A font repository for lara, with fonts that were properly ported to iOS.
 1. Open lara's "Font Overwrite" section
 2. Click on the package icon in the top-right
 3. Click the plus icon in the top-right
-4. Copy the [PartyFonts]() JSON, and paste the link
+4. Copy the [PartyFonts](https://raw.githubusercontent.com/jailbreakdotparty/PartyFonts/refs/heads/main/fonts.json) JSON, and paste the link
 
 # Current Fonts
 - QuickSand (100%)
